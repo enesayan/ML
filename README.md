@@ -1,2 +1,2 @@
 # ML
-Kirikkale University Computer Enginnering Deparment Machine Learning Course Data Sources
+Kirikkale University Computer Engineering Deparment Machine Learning Course Data Sources
